@@ -4,7 +4,7 @@ from testExtractLandmarksModel import HandGestureRecognizer  # Updated import fo
 def main():
 
     # Initialize hand gesture recognizer and run real-time recognition
-    recognizer = HandGestureRecognizer(model_path='model/hand_gesture_classification_model.h5')
+    recognizer = HandGestureRecognizer(model_path='model/indian_sign_language_classification_model.h5')
     recognizer.run()
     
     print("Processing and recognition completed.")
