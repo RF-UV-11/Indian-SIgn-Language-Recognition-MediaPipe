@@ -32,7 +32,7 @@ The project consists of two main parts:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/rf-uv-11/indian-sign-language-recognition.git
+   git clone https://github.com/RF-UV-11/Indian-Sign-Language-Recognition-MediaPipe.git
    cd indian-sign-language-recognition
    ```
 
